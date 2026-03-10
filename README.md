@@ -23,5 +23,7 @@ Sou um estudante de Engenharia da Computação apaixonado por otimizar processos
 
 ### 📊 Minhas Estatísticas
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=pwdro2brb&show_icons=true&theme=radical)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=pwdro2brb&layout=compact&theme=radical)
+<div>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=pwdro2brb&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pwdro2brb&layout=compact&theme=radical" alt="Linguagens mais usadas" />
+</div>
