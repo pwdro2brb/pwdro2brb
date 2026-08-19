@@ -24,14 +24,3 @@ Estudante de **Engenharia da Computação** focado no desenvolvimento de soluç�
 | **Dados & Manipulação** | `Pandas` `OpenPyXL` `MySQL` `JSON` |
 | **GUI & Ferramentas** | `CustomTkinter` `Git` `GitHub` `VS Code` `PyInstaller` |
 
----
-
-### 📊 Métricas do GitHub
-
-[![Followers](https://img.shields.io/github/followers/pwdro2brb?style=for-the-badge&logo=github&color=008542)](https://github.com/pwdro2brb)
-[![Public Repos](https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&label=Repositórios&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fpwdro2brb&color=1F6FEB)](https://github.com/pwdro2brb?tab=repositories)
----
-
-<p align="center">
-  <i>Construindo soluções eficientes através de código limpo e automação inteligente.</i>
-</p>
