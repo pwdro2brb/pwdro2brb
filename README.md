@@ -1,29 +1,37 @@
-# Olá, eu sou o Pedro! 👋
+# Olá, eu sou o Pedro Henrique! 👋
 
-Sou um estudante de Engenharia da Computação apaixonado por otimizar processos e transformar dados em soluções. Atualmente, atuo na criação de automações robóticas (RPA) e estou aprofundando meus estudos em Data Science.
+Estudante de **Engenharia da Computação** focado no desenvolvimento de soluções de software escaláveis, automação de processos corporativos (RPA) e análise de dados. Apaixonado por transformar fluxos manuais complexos em sistemas eficientes, modulares e resilientes.
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/pedro-henrique-soares-silva-0a2952228/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:phenriquesoare2005@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil-aqui)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:phenriquesoares2005@gmail.com)
+
+---
+
+### 🚀 Sobre Mim & Foco de Atuação
+
+* 🤖 **RPA & Automação de Processos:** Desenvolvimento de arquiteturas desktop e scripts para automação de ERPs, integração de APIs REST e manipulação de relatórios em escala corporativa.
+* 📊 **Engenharia & Ciência de Dados:** Extração, limpeza e modelagem de dados para geração de métricas estratégicas e relatórios de produtividade.
+* 🏗️ **Arquitetura de Software:** Criação de interfaces gráficas modernas (`customtkinter`), gerenciamento seguro de credenciais e concorrência via subprocessos.
+
+---
+
+### 🛠️ Minha Stack & Ferramentas
+
+| Área | Tecnologias & Bibliotecas |
+| :--- | :--- |
+| **Linguagens & Core** | `Python` `SQL` `JavaScript` `C/C++` |
+| **Automação & Web** | `Selenium` `PyAutoGUI` `REST APIs` `Requests` `Regex` |
+| **Dados & Manipulação** | `Pandas` `OpenPyXL` `MySQL` `JSON` |
+| **GUI & Ferramentas** | `CustomTkinter` `Git` `GitHub` `VS Code` `PyInstaller` |
+
+---
+
+### 📊 Métricas do GitHub
+
+[![Followers](https://img.shields.io/github/followers/pwdro2brb?style=for-the-badge&logo=github&color=008542)](https://github.com/pwdro2brb)
+[![Public Repos](https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&label=Repositórios&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fpwdro2brb&color=1F6FEB)](https://github.com/pwdro2brb?tab=repositories)
+---
+
+<p align="center">
+  <i>Construindo soluções eficientes através de código limpo e automação inteligente.</i>
 </p>
-
-### 🛠️ Minha Stack e Ferramentas
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-</p>
-
-### 📊 Minhas Estatísticas
-
-<div>
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=pwdro2brb&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pwdro2brb&layout=compact&theme=radical" alt="Linguagens mais usadas" />
-</div>
