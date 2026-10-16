@@ -4,8 +4,8 @@ Estudante de **Engenharia da Computação** e desenvolvedor em formação, com e
 
 Atualmente, atuo na interseção entre **Engenharia de Software, Automação de Processos e Integração de Sistemas**, transformando atividades operacionais em soluções mais seguras, rastreáveis e eficientes.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whitekedin.com/in/pedro-henrique-soares-silva-0a2952228)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailtooares2005@gmail.com)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whitekedin.com/in/pedro-henrique-soares-silva-0a2952228)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](phenriquesoares2005@gmail.com)
 
 ---
 
