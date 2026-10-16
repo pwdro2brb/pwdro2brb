@@ -4,8 +4,8 @@ Estudante de **Engenharia da Computação** e desenvolvedor em formação, com e
 
 Atualmente, atuo na interseção entre **Engenharia de Software, Automação de Processos e Integração de Sistemas**, transformando atividades operacionais em soluções mais seguras, rastreáveis e eficientes.
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whitekedin.com/in/pedro-henrique-soares-silva-0a2952228)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](phenriquesoares2005@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pedro-henrique-soares-silva-0a2952228)
+[![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:phenriquesoares2005@gmail.com)
 
 ---
 
@@ -23,7 +23,7 @@ Também sou responsável pelo desenvolvimento do **Logistics Hub**, uma platafor
 
 Minha experiência abrange o ciclo completo de uma solução:
 
-> entendimento do processo → definição da abordagem → desenvolvimento → testes → implantação → documentação → suporte → evolução
+> Entendimento do processo → definição da abordagem → desenvolvimento → testes → implantação → documentação → suporte → evolução
 
 Atualmente, busco uma oportunidade de estágio em **Engenharia de Software, Automação ou Integração de Sistemas**, onde possa contribuir com minha experiência prática e evoluir em arquitetura, testes, desenvolvimento em equipe e sistemas de maior escala.
 
@@ -39,7 +39,7 @@ Aplicação desktop em Python desenvolvida para centralizar e executar automaç�
 
 - catálogo controlado de automações;
 - execução isolada com processos e threads;
-- acompanhamento de progresso;
+- acompanhamento de progresso em tempo real;
 - cancelamento de emergência;
 - histórico compartilhado de execuções;
 - dashboard de desempenho e saúde operacional;
@@ -49,7 +49,7 @@ Aplicação desktop em Python desenvolvida para centralizar e executar automaç�
 - gerenciamento seguro de credenciais;
 - distribuição como executável para usuários sem ambiente Python.
 
-> O código-fonte não está disponível publicamente por envolver processos e integrações corporativas.
+> O código-fonte não está disponível publicamente por envolver processos, regras de negócio e integrações corporativas.
 
 ### Logistics Hub
 
@@ -79,39 +79,42 @@ Plataforma web interna para gestão de postagens, malotes, percursos e custos lo
 
 ### Linguagens
 
-https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white
-https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white
-https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black
-https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white
-![Java](https://img.shields.io/badge/dêmico-ED8B00?style=flat-square&logo=openjdk&logoColor=white
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-Acadêmico-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
 ### Desenvolvimento web e APIs
 
-https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white
-https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB
-https://img.shields.io/badge/REST_APIs-02569B?style=flat-square
-https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![APIs REST](https://img.shields.io/badge/APIs_REST-02569B?style=flat-square&logo=fastapi&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 ### Automação
 
-https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white
-https://img.shields.io/badge/PyAutoGUI-Automação_Desktop-3776AB?style=flat-square
-https://img.shields.io/badge/Tkinter-Desktop_GUI-3776AB?style=flat-square
-https://img.shields.io/badge/PyInstaller-Build-3776AB?style=flat-square
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![PyAutoGUI](https://img.shields.io/badge/PyAutoGUI-Automação_Desktop-3776AB?style=flat-square&logo=python&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-Desktop_GUI-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyInstaller](https://img.shields.io/badge/PyInstaller-Build-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ### Dados e persistência
 
-![Pandas](https://img.shieldsPandas-150458?style=flat-square&logo=pandas&logoColor=white
-![SQLiteimg.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white
-![MySQL](https://img.shields/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexolor=white
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
 ### Engenharia e ferramentas
 
-![Git](https://img.shields.io/badge/Git-F05032?style=uare&logo=git&logoColor=white
-![GitHub](https://img.shields.io/badge/717?style=flat-square&logo=github&logoColor=white
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC-square&logo=visualstudiocode&logoColor=white
-![Pytest](https://img.shields.io/badge/Testes_Automatizados-0A9EDCt-square&logo=pytest&logoColor=white
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Testes automatizados](https://img.shields.io/badge/Testes_Automatizados-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-Em_aprendizado-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 ---
 
@@ -123,6 +126,7 @@ https://img.shields.io/badge/PyInstaller-Build-3776AB?style=flat-square
 - bancos de dados e SQL;
 - desenvolvimento backend;
 - CI/CD e práticas de engenharia;
+- observabilidade e sistemas distribuídos;
 - inglês técnico e conversação.
 
 ---
